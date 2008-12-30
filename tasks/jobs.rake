@@ -1,1 +1,1 @@
-load 'tasks'
+load File.dirname(__FILE__) + '/tasks.rb'
